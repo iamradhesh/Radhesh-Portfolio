@@ -22,7 +22,7 @@ export const EXPERIENCES = [
     description: `Led the successful completion of a rigorous Machine Learning program, culminating in the creation of a state-of-the-art
 ML model that accurately identifies objects with 92% precision; this breakthrough led to the development of an
 automated and highly efficient Auto Object Detection System`,
-    technologies: ["Python", "Open CV", "Tensorflow", "mySQL"],
+    technologies: ["Python", "Open CV", "Tensorflow", "mySQL","TKinter"],
   },
   
 ];
